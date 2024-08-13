@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769751446494",
+    "project_id": "selflearning-f5ed6",
+    "storage_bucket": "selflearning-f5ed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769751446494:android:9ab0c8021c7b880190e34f",
+        "android_client_info": {
+          "package_name": "com.self.learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9A216z-99TjTQYizCF3dJETRTWzcXW9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
